@@ -58,3 +58,5 @@ Perguntas:
 2)Possuem projeto de desenvolvimento de plugins com estagiários/monitores?
 3)Possuem repositório de desenvolvimento de aplicações/plugin github/gitlab?
 4)Possuem manuais (video/doc) sobre criação de plugins e treinamentos da plataforma ojs?
+
+<br><br>https://revistapropuestascriticas.uchile.cl/
